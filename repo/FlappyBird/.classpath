@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images/jeu/bleu"/>
+	<classpathentry kind="src" path="images/jeu/vert"/>
+	<classpathentry excluding="jaune/|vert/|bleu/|rouge/|jaune/|rouge/|bleu/|vert/" kind="src" path="images/jeu"/>
+	<classpathentry kind="src" path="images/mini_maps"/>
+	<classpathentry kind="src" path="images/score"/>
+	<classpathentry kind="src" path="images/maps"/>
+	<classpathentry kind="src" path="images/meilleurscore"/>
+	<classpathentry kind="src" path="images/options/maps"/>
+	<classpathentry excluding="maps/" kind="src" path="images/options"/>
+	<classpathentry kind="src" path="images/oiseau/bleu"/>
+	<classpathentry kind="src" path="images/oiseau/vert"/>
+	<classpathentry kind="src" path="images/oiseau/jaune"/>
+	<classpathentry kind="src" path="images/oiseau/rouge"/>
+	<classpathentry excluding="bleu/|vert/|jaune/|rouge/" kind="src" path="images/oiseau"/>
+	<classpathentry kind="src" path="images/menup"/>
+	<classpathentry excluding="menup/|oiseau/|oiseau/bleu/|oiseau/vert/|oiseau/jaune/|oiseau/rouge/|options/|maps/|options/maps/|meilleurscore/|maps/|score/|jeu/|jeu/|jeu/jaune/|jeu/rouge/|jeu/bleu/|jeu/vert/|mini_maps/|jeu/jaune/|jeu/|jeu/jaune/|jeu/rouge/|jeu/bleu/|jeu/vert/" kind="src" path="images"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
