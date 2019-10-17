@@ -3,8 +3,7 @@
 [![Documentation](https://img.shields.io/badge/documentation-TowardsDataScience-blue)](https://towardsdatascience.com/automatic-license-plate-detection-recognition-using-deep-learning-624def07eaaf)
 [![Dataset](https://img.shields.io/badge/Dataset-licence.plates-green)](https://www.kaggle.com/achrafkhazri/labeled-licence-plates-dataset)
 [![Dataset](https://img.shields.io/badge/Dataset-plate.digits-yellowgreean)](https://www.kaggle.com/achrafkhazri/licence-plate-digits-dataset)
-[![Dataset](https://img.shields.io/badge/dependencies-yolo.weights-blueviolet)](https://www.kaggle.com/achrafkhazri/yolo-weights-for-licence-plate-detector)
-[![Fork](https://img.shields.io/github/forks/GuiltyNeuron/ANPR?style=social)](https://github.com/GuiltyNeuron/ANPR/network/members)
+[![cfg](https://img.shields.io/badge/dependencies-yolo.weights-blueviolet)](https://www.kaggle.com/achrafkhazri/yolo-weights-for-licence-plate-detector)
 [![Stars](https://img.shields.io/github/stars/GuiltyNeuron/ANPR?style=social)](https://github.com/GuiltyNeuron/ANPR/stargazers)
 
 In this repos we study number plate detection and recognition using different deep learning models and computer vision approches.
