@@ -45,7 +45,3 @@ python detector.py --video test.mp4
 Detection from image :
 ![Licence_plate_detection_from_image](Licence_plate_detection/test_yolo_out_py.jpg)
 
-
-
-
-
