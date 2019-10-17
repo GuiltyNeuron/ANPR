@@ -1,7 +1,9 @@
 # Automatic License Plate Detection & Recognition using deep learning
 [![Licence](https://img.shields.io/github/license/GuiltyNeuron/ANPR?style=plastic)](https://github.com/GuiltyNeuron/ANPR/blob/master/LICENSE)
 [![Documentation](https://img.shields.io/badge/documentation-TowardsDataScience-blue)](https://towardsdatascience.com/automatic-license-plate-detection-recognition-using-deep-learning-624def07eaaf)
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-red)](https://www.kaggle.com/)
+[![Dataset](https://img.shields.io/badge/Dataset-licence.plates-green)](https://www.kaggle.com/achrafkhazri/labeled-licence-plates-dataset)
+[![Dataset](https://img.shields.io/badge/Dataset-plate.digits-yellowgreean)](https://www.kaggle.com/achrafkhazri/licence-plate-digits-dataset)
+[![Dataset](https://img.shields.io/badge/dependencies-yolo.weights-blueviolet)](https://www.kaggle.com/achrafkhazri/yolo-weights-for-licence-plate-detector)
 [![Fork](https://img.shields.io/github/forks/GuiltyNeuron/ANPR?style=social)](https://github.com/GuiltyNeuron/ANPR/network/members)
 [![Stars](https://img.shields.io/github/stars/GuiltyNeuron/ANPR?style=social)](https://github.com/GuiltyNeuron/ANPR/stargazers)
 
@@ -18,7 +20,7 @@ Yolo v2 : Paper [link](https://arxiv.org/pdf/1612.08242.pdf).
 Yolo v3 : Paper [link](https://arxiv.org/pdf/1804.02767.pdf).
 
 Yolo is a single network trained end to end to perform a regression task predicting both object bounding box and object class.
-This network is extremely fast, it processes images in real-time at 45 frames per second. A smaller version of the network, Fast YOLO, processes an astounding 155 frames per second.
+This network is extremely fast, it processes images in real-time at 45 frames per second. A smaller version of the network, tiny YOLO, processes an astounding 155 frames per second.
 
 You will find more information about how to train Yolo on your customized dataset in this [Link](https://towardsdatascience.com/automatic-license-plate-detection-recognition-using-deep-learning-624def07eaaf).
 
