@@ -31,12 +31,14 @@ install requirement
 pip install -r requirement.txt
 ````
 
-To detect from an image
+Download Yolo weights from this [Link](https://www.kaggle.com/achrafkhazri/yolo-weights-for-licence-plate-detector).
+
+Detect LP from an image
 ````
 python detector.py --image test.jpg
 ````
 
-To detect from a video
+To detect LP from a video
 ````
 python detector.py --video test.mp4
 ````
