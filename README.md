@@ -48,3 +48,16 @@ python detector.py --video test.mp4
 Detection from image :
 ![Licence_plate_detection_from_image](Licence_plate_detection/test_yolo_out_py.jpg)
 
+### Licence plate recognition :
+
+To train models run this command
+
+`` $ python main.py -mode train -d dataset``
+
+To recognize licence plate run this command
+
+`` $ python main.py -mode predict -i test.jpg -model mlp.pkl``
+
+The approch of detection and recognition are not combinet yet !
+We will concatenate the code of each part as soon as possible.
+
