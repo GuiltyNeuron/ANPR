@@ -29,7 +29,7 @@ if args.mode == "train":
 elif args.mode == "predict":
 
     # Load image
-    img = cv2.imread(args.i)
+    img = cv2.imread(args.i, 1)
 
     # Apply image segmentation and extract digits
     digits = histogram_of_pixel_projection(img)
