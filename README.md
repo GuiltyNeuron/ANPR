@@ -58,6 +58,8 @@ To recognize licence plate run this command
 
 `` $ python main.py -mode predict -i test.jpg -model mlp.pkl``
 
+Notes:
+
 The approch of detection and recognition are not combinet yet !
 We will concatenate the code of each part as soon as possible.
 
