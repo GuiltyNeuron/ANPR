@@ -8,8 +8,13 @@ We will use python with the two libraries Opencv and Numpy.
 
 ### The pipeline below show steps followed :
 ![Licence_plate_detection_from_image](data/pipe.png)
-#### How to use : 
+#### How to use :
 
+Note : this project works on windows os and tesseract is under the folder "extra",
+if you want to run it on linux you have to install tesseract wich on you machine
+and change the binairie path in "engine.py" function "recognise()"
+
+To detect LP from an image
 ````
 python anpr.py --i data/images/1.jpg
 ````
