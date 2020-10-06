@@ -50,5 +50,5 @@ Detection from image :
 
 ### Licence plate recognition :
 
-We are stadying Tunisian plates and USA plates for the recognition, check the sub folders in plates recognition folder!
+We are studying Tunisian plates and USA plates for the recognition, check the sub folders in plates recognition folder!
 
